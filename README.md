@@ -117,7 +117,7 @@
 
  📷 Dashboard Preview
 
- ![Amazon E-commerce Sales Performance Dashboard](screenshots/Dashboard-overview.png)
+ ![Amazon E-commerce Sales Performance Dashboard](screenshots/dashboard-overview.png)
  
  ---
  
